@@ -1,0 +1,16 @@
+body {
+    background-image: url("https://66.media.tumblr.com/68f66da1dfa981b5c61936e2b4d68e4a/tumblr_ol81hdcHYG1vj3zbeo1_500.gif");
+    background-size: cover;
+}
+
+
+.header {
+	font-size: 50px;
+	color: red;
+	font-style: italic;
+}
+
+h4 {
+	font-size: 30px;
+	font-style: italic;
+}
